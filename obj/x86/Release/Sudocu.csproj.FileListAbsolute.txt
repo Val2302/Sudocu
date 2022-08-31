@@ -1,0 +1,13 @@
+D:\Projects\C-Sharp\Головоломки\Sudocu\bin\Release\Sudocu.exe
+D:\Projects\C-Sharp\Головоломки\Sudocu\bin\Release\Sudocu.pdb
+D:\Projects\C-Sharp\Головоломки\Sudocu\bin\Release\ru\Sudocu.resources.dll
+D:\Projects\C-Sharp\Головоломки\Sudocu\bin\Release\sq\Sudocu.resources.dll
+D:\Projects\C-Sharp\Головоломки\Sudocu\obj\x86\Release\Sudocu.FormMain.resources
+D:\Projects\C-Sharp\Головоломки\Sudocu\obj\x86\Release\Sudocu.Properties.Resources.resources
+D:\Projects\C-Sharp\Головоломки\Sudocu\obj\x86\Release\Sudocu.FormMain.ru.resources
+D:\Projects\C-Sharp\Головоломки\Sudocu\obj\x86\Release\Sudocu.FormMain.sq.resources
+D:\Projects\C-Sharp\Головоломки\Sudocu\obj\x86\Release\Sudocu.csproj.GenerateResource.Cache
+D:\Projects\C-Sharp\Головоломки\Sudocu\obj\x86\Release\ru\Sudocu.resources.dll
+D:\Projects\C-Sharp\Головоломки\Sudocu\obj\x86\Release\sq\Sudocu.resources.dll
+D:\Projects\C-Sharp\Головоломки\Sudocu\obj\x86\Release\Sudocu.exe
+D:\Projects\C-Sharp\Головоломки\Sudocu\obj\x86\Release\Sudocu.pdb
